@@ -1,3 +1,41 @@
+# 💫 Hi 👋, I'm Saurav Thakur
+### AI & Data Science Student | Tech Lead | Student Developer
+
+<p align="left">
+<img src="https://img.shields.io/badge/Major-AI%20%26%20Data%20Science-blue?style=for-the-badge&logo=python" alt="AI/DS" />
+<img src="https://img.shields.io/badge/Role-D4%20Event%20Coordinator-red?style=for-the-badge" alt="D4 Community" />
+</p>
+
+---
+
+### 🔍 About Me
+I'm a 4th-semester B.Tech student at **CGC University, Mohali**, specializing in **Artificial Intelligence and Data Science**. Beyond the classroom, I'm a Technical Member and Event Coordinator for the **D4 Community**.
+
+- 🚀 **Currently Working On:** - **DeepGuard AI:** Developing advanced AI frameworks for deepfake detection and media authenticity.
+- 🏆 **Leadership & Experience:**
+  - **Core Team Member & Student Coordinator:** Hack-N-Win 3.0 (organized by D4 Community).
+  - **Student Coordinator:** GenAI Hackathon 2025.
+- 🛠️ **Recent Projects:** - **Anomaly_Detector:** A Healthcare AI system for medical anomaly detection (Deployed on Render).
+  - **ApplySmart:** An intelligent application for streamlining recruitment processes.
+  - **Handwritten Digit Recognizer:** A computer vision project built with Python.
+- 🌱 **Learning Path:** Advanced **Java**, **SQL**, and mastering **LeetCode** problems.
+- 👯 **I’m looking to collaborate on:** Open-source AI and Machine Learning projects.
+- 💬 **Ask me about:** Python, SQL database management, or organizing Tech Hackathons!
+- 📍 **Based in:** Himachal Pradesh 🏔️
+
+### 🛠️ Tech Stack
+- **Languages:** Python (Primary), C/C++, Java, SQL, HTML/CSS
+- **Specializations:** Machine Learning, Deepfake Detection, Data Analysis
+- **Tools & Platforms:** Streamlit, Git, GitHub, VS Code, Render, Jupyter Notebooks, Anaconda
+
+### 📫 Connect with me: [s.thakur6794@gmail.com](mailto:s.thakur6794@gmail.com) 
+- **Major:** B.Tech (AI & DS)
+- **Fun fact:** I love turning complex data into actionable insights through code! ⚡
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravt20250405&show_icons=true&theme=tokyonight" alt="Saurav's Stats" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s.thakur6794) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saurv._t/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurav-thakur-810755320/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/sthakur6794/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32391730/saurav-thakur) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SauravThak15804) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.thakur6794@gmail.com) 
