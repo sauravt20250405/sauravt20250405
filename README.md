@@ -40,7 +40,14 @@ I'm a 4th-semester B.Tech student at **CGC University, Mohali**, specializing in
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s.thakur6794) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saurv._t/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurav-thakur-810755320/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/sthakur6794/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32391730/saurav-thakur) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SauravThak15804) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.thakur6794@gmail.com) 
 
--- snake game repo view--
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70897&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+a+Developer!;I+love+building+cool+apps.;Exploring+new+tech+stacks!;Let's+build+something+amazing!" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <div align = "centre">
   <img src = "https://profile-readme-generator.com/assets/snake.svg"="snake animation" />
 </div>
